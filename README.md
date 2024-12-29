@@ -30,6 +30,11 @@ Hardware – PCs, Cyclone V , USB flasher
 
 5.	For different input combinations generate the timing diagram.
 
+**Theory**
+
+![image](https://github.com/user-attachments/assets/dd4d6cb6-2a98-4646-9e4d-f2f5899a802a)
+![image](https://github.com/user-attachments/assets/868ba8ed-b988-480b-a2b3-40446047719d)
+
 
 **Program:**
 
