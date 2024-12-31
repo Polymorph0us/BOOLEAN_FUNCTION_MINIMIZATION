@@ -64,19 +64,21 @@ RegisterNumber: 24901007
 
 **RTL - F1**
 
-![image](https://github.com/user-attachments/assets/705be7cd-7476-4f61-8e11-8d28a1ace294)
+![image](https://github.com/user-attachments/assets/d4343ad7-784c-4244-bc58-0d03515eee35)
+
 
 **RTL - F2**
 
-![image](https://github.com/user-attachments/assets/c1327611-725f-4c4d-aedf-650f36540b48)
+![image](https://github.com/user-attachments/assets/97cd96bf-388c-4360-b17c-571ea57c7eda)
 
 
 **Timing Diagram - F1**
 
-![image](https://github.com/user-attachments/assets/1b540cb4-db68-4a8e-9324-f2eaaf79893d)
+![image](https://github.com/user-attachments/assets/4ae47c21-c7f4-4901-aff4-b39ab04dd0bc)
+
 **Timing Diagram - F2**
 
-![image](https://github.com/user-attachments/assets/7d2483b8-8016-48e3-9754-c72aaef4c60b)
+![image](https://github.com/user-attachments/assets/184d97e7-6718-47ca-b358-eb6ac8479524)
 
 
 **Result:**
